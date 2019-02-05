@@ -1,0 +1,14 @@
+C:\Users\Konstantin\source\repos\CodingTestForTJBSoftware\CodingTestForTJBSoftware\bin\Debug\CodingTestForTJBSoftware.exe.config
+C:\Users\Konstantin\source\repos\CodingTestForTJBSoftware\CodingTestForTJBSoftware\bin\Debug\CodingTestForTJBSoftware.exe
+C:\Users\Konstantin\source\repos\CodingTestForTJBSoftware\CodingTestForTJBSoftware\bin\Debug\CodingTestForTJBSoftware.pdb
+C:\Users\Konstantin\source\repos\CodingTestForTJBSoftware\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.csprojAssemblyReference.cache
+C:\Users\Konstantin\source\repos\CodingTestForTJBSoftware\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\CodingTestForTJBSoftware\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.exe
+C:\Users\Konstantin\source\repos\CodingTestForTJBSoftware\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.pdb
+C:\CodingTestForTJBSoftware\bin\Debug\CodingTestForTJBSoftware.exe.config
+C:\CodingTestForTJBSoftware\bin\Debug\CodingTestForTJBSoftware.exe
+C:\CodingTestForTJBSoftware\bin\Debug\CodingTestForTJBSoftware.pdb
+C:\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.csprojAssemblyReference.cache
+C:\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.csproj.CoreCompileInputs.cache
+C:\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.exe
+C:\CodingTestForTJBSoftware\obj\Debug\CodingTestForTJBSoftware.pdb
